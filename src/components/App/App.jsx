@@ -9,7 +9,7 @@ const name = require('@rstacruz/startup-name-generator');
 class App extends React.Component{
 
     state = {
-        headerText : "This is amazing app",
+        headerText : "Get Amazing Names",
         headerExpanded : true,
         suggestNames :[]
     };

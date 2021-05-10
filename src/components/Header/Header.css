@@ -7,6 +7,7 @@
 
 .head-image {
     width: auto;
+
     transition: max-width 1s, min-width 1s;
 }
 
