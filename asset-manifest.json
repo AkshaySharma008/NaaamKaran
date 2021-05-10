@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NaaamKaran/static/css/main.90ba8892.chunk.css",
+    "main.js": "/NaaamKaran/static/js/main.bfd636bf.chunk.js",
+    "main.js.map": "/NaaamKaran/static/js/main.bfd636bf.chunk.js.map",
+    "runtime-main.js": "/NaaamKaran/static/js/runtime-main.ced172c8.js",
+    "runtime-main.js.map": "/NaaamKaran/static/js/runtime-main.ced172c8.js.map",
+    "static/js/2.48a7a9fc.chunk.js": "/NaaamKaran/static/js/2.48a7a9fc.chunk.js",
+    "static/js/2.48a7a9fc.chunk.js.map": "/NaaamKaran/static/js/2.48a7a9fc.chunk.js.map",
+    "index.html": "/NaaamKaran/index.html",
+    "static/css/main.90ba8892.chunk.css.map": "/NaaamKaran/static/css/main.90ba8892.chunk.css.map",
+    "static/js/2.48a7a9fc.chunk.js.LICENSE.txt": "/NaaamKaran/static/js/2.48a7a9fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced172c8.js",
+    "static/js/2.48a7a9fc.chunk.js",
+    "static/css/main.90ba8892.chunk.css",
+    "static/js/main.bfd636bf.chunk.js"
+  ]
+}
