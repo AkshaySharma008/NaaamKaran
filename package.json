@@ -2,7 +2,7 @@
   "name": "naaamkaran",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AkshaySharma008.github.io/NaaamKaran/",
+  "homepage": "http://AkshaySharma008.github.io/NaaamKaran",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -18,8 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
